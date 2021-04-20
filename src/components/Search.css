@@ -1,0 +1,32 @@
+*{
+    background-color:whitesmoke;
+    
+}
+.flexContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   /* border: 1px solid black;*/
+    
+}
+
+.inputStyle{
+    font-size: 1.5em;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 3px;
+    display: inline-block;
+    width: 30%;
+   background-color: white;
+}
+
+.head{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.found{
+    padding-left: 50px;
+    font-size:large;
+    
+}
